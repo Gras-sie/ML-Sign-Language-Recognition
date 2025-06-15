@@ -1,0 +1,30 @@
+body {
+    background: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+#video, #canvas {
+    border-radius: 8px;
+}
+
+h1, h4 {
+    color: #343a40;
+}
+
+button {
+    min-width: 120px;
+}
+
+.spinner-border {
+    display: block;
+    margin: auto;
+}
