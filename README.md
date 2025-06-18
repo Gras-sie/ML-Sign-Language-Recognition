@@ -1,6 +1,6 @@
 # American Sign Language (ASL) Alphabet Detection
 
-Hi there! Welcome to my ASL Alphabet Detection project. This is something I poured a lot of effort into, and I’m excited to share it with you. It’s a full-stack deep learning application designed to recognize static American Sign Language (ASL) hand signs (A-Z) in real-time using your webcam. Whether you’re a developer, a student, or just curious about how AI can interpret sign language, I hope you’ll find this project as fascinating as I do.
+Welcome to my ASL Alphabet Detection project. This is something I poured a lot of effort into, and I’m excited to share it with you. It’s a full-stack deep learning application designed to recognize static American Sign Language (ASL) hand signs (A-Z) in real-time using your webcam. Whether you’re a developer, a student, or just curious about how AI can interpret sign language, I hope you’ll find this project as fascinating as I do.
 
 ## What Does This Project Do?
 
